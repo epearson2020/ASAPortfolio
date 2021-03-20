@@ -1,6 +1,6 @@
 ---
 title: "ASA CCD Portfolio"
-author: "Dr Esther M Pearson"
+author: "Dr Esther Pearson"
 date: "March 20, 2021"
 output: html_document
 ---
